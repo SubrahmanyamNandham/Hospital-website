@@ -1,0 +1,37 @@
+.title {
+  color: rgb(20, 19, 19);
+  font-weight: 700;
+  padding-top: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.about {
+  background-color: rgb(212, 210, 210);
+  min-height: 80vh;
+  min-width: 80vw;
+}
+
+.description {
+  color: black;
+  font-family: 'roboto';
+  padding: 40px;
+}
+
+.mahmut {
+  min-height: 40vh;
+  min-width: 40vw;
+  background-size: cover;
+  background-image: url('https://res.cloudinary.com/dvco5xnoe/image/upload/v1680791663/young-handsome-physician-medical-robe-with-stethoscope_pzvaem.jpg');
+}
+.enes {
+  color: rgb(44, 41, 41);
+  font-weight: 600;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 20px;
+}
+.doctor {
+  color: rgb(44, 41, 41);
+  font-size: 16px;
+  font-weight: 500;
+  padding: 40px;
+}

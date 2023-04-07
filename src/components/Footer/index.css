@@ -1,0 +1,34 @@
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+.footer-icon {
+  height: 31px;
+  width: 31px;
+  color: grey;
+  margin-right: 10px;
+}
+.contact-heading {
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+
+  /* identical to box height, or 150% */
+
+  color: black;
+}
+
+@media screen and (max-width: 767px) {
+  .footer-icon {
+    width: 14px;
+    height: 16px;
+  }
+
+  .contact-heading {
+    font-size: 12px;
+  }
+}

@@ -1,11 +1,10 @@
-In this project, let's fix the **Fruits Counter** by applying the concepts we have learned till now.
+In this project, let's fix the **hospital App** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
 
 <br/>
-<div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js/debugging-fruits-counter-output.gif" alt="fruits-counter" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
-</div>
+css 
+background-image: url('https://res.cloudinary.com/dvco5xnoe/image/upload/v1680790134/successful-medical-team_vcatel.jpg');
 <br/>
 
 ### Set Up Instructions
@@ -26,8 +25,8 @@ In this project, let's fix the **Fruits Counter** by applying the concepts we ha
 Fix the given code to have the following functionality
 
 - Initially, the count of the eaten mangoes should be four and the count of the eaten bananas should be five
-- When the **Eat Mango** button is clicked, then the count of the mangoes eaten should be incremented by one
-- When the **Eat Banana** button is clicked, then the count of the bananas eaten should be incremented by one
+- When the **about** link is clicked, then the page will navigate to about page 
+- When the **testimonials** link is clicked, it willl redirect to testimonials page
 
 </details>
 
@@ -37,18 +36,14 @@ Fix the given code to have the following functionality
 <summary>Click to view</summary>
 <br>
 
-- There are `8` bugs to be fixed to achieve the functionality and the UI that is expected
-
-</details>
+=
 
 ### Resources
 
 <details>
 <summary>Image URLs</summary>
-
-- [https://assets.ccbp.in/frontend/react-js/mango-img.png](https://assets.ccbp.in/frontend/react-js/mango-img.png) alt should be **mango**
-- [https://assets.ccbp.in/frontend/react-js/banana-img.png](https://assets.ccbp.in/frontend/react-js/banana-img.png) alt should be **banana**
-
+#logo
+https://res.cloudinary.com/dvco5xnoe/image/upload/v1680787604/hospital-low-resolution-color-logo_h46jeu.png
 </details>
 
 > ### _Things to Keep in Mind_

@@ -24,7 +24,7 @@ background-image: url('https://res.cloudinary.com/dvco5xnoe/image/upload/v168079
 
 Fix the given code to have the following functionality
 
-- Initially, the count of the eaten mangoes should be four and the count of the eaten bananas should be five
+-
 - When the **about** link is clicked, then the page will navigate to about page 
 - When the **testimonials** link is clicked, it willl redirect to testimonials page
 
